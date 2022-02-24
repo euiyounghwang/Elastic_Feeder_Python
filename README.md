@@ -2,6 +2,7 @@
 Feeed DB Datas with Attached File to Elastic Cluster
 
 
+## Feeder Python with Sample DB to Elasticsearch Cluster
 > installpath]  /TOM/ES/ES_Feeder_Python/Lib/Memory
 > ['/TOM/ES/ES_Feeder_Python/Lib/DB/ojdbc6.jar', '/TOM/ES/ES_Feeder_Python/Lib/Feed_Text/Jar/', '/TOM/ES/ES_Feeder_Python/Lib/Feed_Text/Jar/*.jar', > '/TOM/ES/ES_Feeder_Python/Lib/Feed_Text/Jar/DocumentsTextExtract-import-1.0_lib/*']
 
