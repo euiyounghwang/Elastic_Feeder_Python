@@ -35,6 +35,9 @@ new_params : ['999', None, None]
 
 ```sh
 /ES/Python-3.5.1/python /ES/ES_Feeder_Python/Lib/Feed_Text/Gather_Text.py
+```
+**Extract Text Log**  
+```sh
 [INFO] 2022-02-24 09:17:29,847 > @@@@@@@ not jpype.isJVMStarted() .. Retry.. @@@@@@
 [INFO] 2022-02-24 09:17:29,908 > START...
 [INFO] 2022-02-24 09:17:29,908 > doc >> /ES/ADSP_Summary.pdf [593890]
