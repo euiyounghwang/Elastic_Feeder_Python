@@ -27,3 +27,20 @@ new_params : ['999', None, None]
 ```
 
 **Indexing StringBuffer**  
+
+
+
+## Feeder Python with Extracted Text
+> **PATH : ./Lib/Feed_Text/Gather_Text.py** 
+
+```sh
+/ES/Python-3.5.1/python /ES/ES_Feeder_Python/Lib/Feed_Text/Gather_Text.py
+[INFO] 2022-02-24 09:17:29,847 > @@@@@@@ not jpype.isJVMStarted() .. Retry.. @@@@@@
+[INFO] 2022-02-24 09:17:29,908 > START...
+[INFO] 2022-02-24 09:17:29,908 > doc >> /ES/ADSP_Summary.pdf [593890]
+INFO  INSIDE ~ Text Extract Library
+INFO  FILE SIZE ====>593890
+INFO] 2022-02-24 09:17:31,259 > Call_Jar_Text ... he ADSp cover all Freight Forwarding Contracts undertak- en by the Freight Forwarder as contractor for all activities, regardless of whether they ar...
+[INFO] 2022-02-24 09:17:31,268 > Finished...
+```
+
