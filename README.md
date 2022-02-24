@@ -49,3 +49,24 @@ en by the Freight Forwarder as contractor for all activities, regardless of whet
 [INFO] 2022-02-24 09:17:31,268 > Finished...
 ```
 
+## Feeder Python with Extracted Text through Socket Client
+> **PATH : ./Lib/Feed_Text/Socket/Socket_Client.py** 
+
+**Extract Text Log using Socket Client**  
+```sh
+INFO] 2022-02-24 10:37:54,745 > Connecting to Port => '127.0.0.1' 
+[INFO] 2022-02-24 10:37:54,746 > Send => 'ECM;0900bf4b9816277d\n'
+[INFO] 2022-02-24 10:37:56,146 > Received => 'S;tmp_ECM_0900bf4b9816277d_0900bf4b9816277d_1645667246307.pdf\n'
+[INFO] 2022-02-24 10:37:56,498 > @@@@@@@ not jpype.isJVMStarted() .. Retry.. @@@@@@
+[INFO] 2022-02-24 10:37:56,604 > START...
+[INFO] 2022-02-24 10:37:56,604 > doc >> /ES/download_test/tmp_ECM_0900bf4b9816277d_0900bf4b9816277d_1645667246307.pdf [267960]
+INFO  INSIDE ~ Text Extract Library
+INFO  FILE SIZE ====>267960
+WARN  Using fallback font WenQuanYiZenHei for CID-keyed TrueType font Gulim
+WARN  Using fallback font WenQuanYiZenHei for CID-keyed TrueType font GulimChe
+WARN  No Unicode mapping for CID+122 (122) in font OGCFMA+Wingdings-Regular
+he ADSp cover all Freight Forwarding Contracts undertak- 
+en by the Freight Forwarder as contractor for all activities, regardless of whether they ar...
+[INFO] 2022-02-24 10:37:57,896 > Finished...
+[INFO] 2022-02-24 10:37:57,896 > Socket Closed..
+```
