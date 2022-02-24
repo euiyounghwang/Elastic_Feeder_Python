@@ -1,0 +1,29 @@
+<query_mapper>
+    <query_map>
+        <system id="PURCHASE_ITEM_NO">
+            <query id="bulk">
+                <![CDATA[
+                    SELECT *
+                    FROM TB
+                 ]]>
+            </query>
+            <query id="queue">
+                <![CDATA[
+                    d
+                ]]>
+            </query>
+        </system>
+         <system id="SAMPLE">
+            <query id="bulk">
+                <![CDATA[
+                    CITIZEN2
+                ]]>
+            </query>
+            <query id="queue">
+                <![CDATA[
+                    d
+                ]]>
+            </query>
+        </system>
+    </query_map>
+</query_mapper>
