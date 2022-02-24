@@ -59,7 +59,8 @@ INFO] 2022-02-24 10:37:54,745 > Connecting to Port => '127.0.0.1'
 [INFO] 2022-02-24 10:37:56,146 > Received => 'S;tmp_ECM_0900bf4b9816277d_0900bf4b9816277d_1645667246307.pdf\n'
 [INFO] 2022-02-24 10:37:56,498 > @@@@@@@ not jpype.isJVMStarted() .. Retry.. @@@@@@
 [INFO] 2022-02-24 10:37:56,604 > START...
-[INFO] 2022-02-24 10:37:56,604 > doc >> /ES/download_test/tmp_ECM_0900bf4b9816277d_0900bf4b9816277d_1645667246307.pdf [267960]
+[INFO] 2022-02-24 10:37:56,604 > 
+doc >> /ES/download_test/tmp_ECM_0900bf4b9816277d_0900bf4b9816277d_1645667246307.pdf [267960]
 INFO  INSIDE ~ Text Extract Library
 INFO  FILE SIZE ====>267960
 WARN  Using fallback font WenQuanYiZenHei for CID-keyed TrueType font Gulim
