@@ -55,7 +55,7 @@ en by the Freight Forwarder as contractor for all activities, regardless of whet
 **Extract Text Log using Socket Client**  
 ```sh
 INFO] 2022-02-24 10:37:54,745 > Connecting to Port => '127.0.0.1' 
-[INFO] 2022-02-24 10:37:54,746 > Send => 'ECM;0900bf4b9816277d\n'
+[INFO] 2022-02-24 10:37:54,746 > Send => 'DOC;0900bf4b9816277d\n'
 [INFO] 2022-02-24 10:37:56,146 > Received => 'S;tmp_ECM_0900bf4b9816277d_0900bf4b9816277d_1645667246307.pdf\n'
 [INFO] 2022-02-24 10:37:56,498 > @@@@@@@ not jpype.isJVMStarted() .. Retry.. @@@@@@
 [INFO] 2022-02-24 10:37:56,604 > START...
