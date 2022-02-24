@@ -66,7 +66,8 @@ WARN  Using fallback font WenQuanYiZenHei for CID-keyed TrueType font Gulim
 WARN  Using fallback font WenQuanYiZenHei for CID-keyed TrueType font GulimChe
 WARN  No Unicode mapping for CID+122 (122) in font OGCFMA+Wingdings-Regular
 he ADSp cover all Freight Forwarding Contracts undertak- 
-en by the Freight Forwarder as contractor for all activities, regardless of whether they ar...
+en by the Freight Forwarder as contractor for all activities, 
+regardless of whether they ar...
 [INFO] 2022-02-24 10:37:57,896 > Finished...
 [INFO] 2022-02-24 10:37:57,896 > Socket Closed..
 ```
