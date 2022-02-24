@@ -27,7 +27,39 @@ new_params : ['999', None, None]
 ```
 
 **Indexing StringBuffer**  
+```sh
+...
+StringBuffer [Add Meta] 967680Bytes /1048576Bytes (Total Meta Buffer Ratio : 92.0%)
+708271 [{'PUR_MAT_ITEM_SLY_TP': 'L', 'LABEL': 'FLEXIBLE HOSE', 'PUR_MAT_ITEM_CSDT_NO': '', 'Purchase Category': 'Flexible Hose', 'ITEM_NUMBER': 'Q4534832', 'PUR_MAT_ITEM_UT': 'SET', 'CURRENCY_CODE': 'VND', 'CD_V_MEANING': '?????(??)'}]
+[INFO] 2022-02-24 12:14:03,545 > @@posco_purchase_item_idx@@
 
+StringBuffer [Add Meta] 968425Bytes /1048576Bytes (Total Meta Buffer Ratio : 92.0%)
+708272 [{'PUR_MAT_ITEM_SLY_TP': 'L', 'LABEL': 'BOLT &amp; NUT', 'PUR_MAT_ITEM_CSDT_NO': '', 'Purchase Category': 'Bolt &amp; Nut', 'ITEM_NUMBER': 'Q4535668', 'PUR_MAT_ITEM_UT': 'EA', 'CURRENCY_CODE': 'KRW', 'CD_V_MEANING': '???'}]
+[INFO] 2022-02-24 12:14:03,573 > @@posco_purchase_item_idx@@
+
+StringBuffer [Add Meta] 968995Bytes /1048576Bytes (Total Meta Buffer Ratio : 92.0%)
+
+
+[INFO] 2022-02-24 12:14:03,617 > Remained StringBuffer Send : 1493,     968995
+[INFO] 2022-02-24 12:14:04,033 > bulk_send >> success : 1493, failed : 0
+
+
+[INFO] 2022-02-24 12:14:04,033 > ****************************************
+[INFO] 2022-02-24 12:14:04,033 > ****************************************
+[INFO] 2022-02-24 12:14:04,033 > ** Search Engine Send ...[['127.0.0.1:9201']]
+[INFO] 2022-02-24 12:14:04,033 > ****************************************
+[INFO] 2022-02-24 12:14:04,033 > ****************************************
+
+
+elasticsearch_response function called..
+
+results >>  [US] Q4504549 [US] Q4506900 [US] Q4450289 [US] Q4513183 [US] Q4495743 [US] Q450
+
+[INFO] 2022-02-24 12:14:04,494 > [Set_DB_Disconnect] Set DB Disconnect...
+
+DB Disconnected...
+
+```
 
 
 ## Feeder Python with Extracted Text
