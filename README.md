@@ -16,7 +16,7 @@ Initialze_delete_all_idx  PURCHASE_ITEM_NO {'30': 'posco_purchase_item_idx'}
 ```
 
 ```sh
-No Date Options..
+No Date Options.
 
 [INFO] 2022-02-24 08:57:41,484 > self.index_name >> purchase_item_idx
 [INFO] 2022-02-24 08:57:41,484 > self.doctype >> _doc
